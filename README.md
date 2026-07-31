@@ -3,6 +3,11 @@
 Data analysis project using the Sakila sample database (SQL Server) with 
 Power BI for data modeling and visualization.
 
+## 👤 Author
+
+**Isaac Illescas**
+- GitHub: [@isaacillescas](https://github.com/isaacillescas)
+
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 
