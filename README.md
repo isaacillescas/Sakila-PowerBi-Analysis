@@ -22,7 +22,7 @@ Power BI for data modeling and visualization.
 - **Seasonality** — Rental distribution by day of the week and a calendar 
   heatmap (month vs. day of week).
 
------------------------------------------------------------------------------------------------
+
 
 ## Tech Stack
 - SQL Server (Sakila sample database)
@@ -30,13 +30,13 @@ Power BI for data modeling and visualization.
 - DAX (measures and relationships, including USERELATIONSHIP for 
   ambiguous relationship paths)
 
------------------------------------------------------------------------------------------------
+
 
 ##  Repository Contents
 - `data/` — SQL scripts to create and populate the Sakila database
 - `powerbi/` — Full Power BI report (.pbix)
 
------------------------------------------------------------------------------------------------
+
 
 ##  How to Use
 1. Run `data/createtables.sql` on your SQL Server instance.
@@ -44,7 +44,7 @@ Power BI for data modeling and visualization.
 3. Open `powerbi/Business Data Analysis with Power BI.pbix` in Power BI Desktop.
 4. Update the data source connection (server/instance) to match your environment.
 
-----------------------------------------------------------------------------------------------
+
 
 ## Technical Challenges Solved
 - Resolved datetime vs. date mismatch between the fact tables (`rental`, 
